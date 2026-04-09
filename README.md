@@ -104,7 +104,8 @@ For a structured learning flow, run notebooks in this order:
 
 ## Author 👤
 
-[Riccardo Campi](https://scholar.google.com/citations?user=JWSoz7EAAAAJ&hl=it)
+[Riccardo Campi](https://scholar.google.com/citations?user=JWSoz7EAAAAJ&hl=it), PhD student in Artificial Intelligence and Data Science.
+<br>Politecnico di Milano, Data Science Lab.
 
 ## License ⚖️
 
