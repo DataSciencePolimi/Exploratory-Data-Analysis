@@ -5,15 +5,15 @@ A hands-on collection of Jupyter notebooks for learning and practicing **Explora
 This repository is organized as a step-by-step workflow:
 1. Understand your dataset
 2. Exploratory Data Analysis (EDA)
-2.1 Explore univariate patterns
-2.2 Explore multivariate patterns
+   1. Explore univariate patterns
+   2. Explore multivariate patterns
 3. Analyze bivariate and multivariate relationships
 4. Detect outliers
 5. Handle missing values
 6. Train baseline ML models
-6.1 Classification
-6.2 Regression
-6.3 Clustering
+   1. Classification
+   2. Regression
+   3. Clustering
 
 It includes multiple CSV datasets (stored in `datasets/`) so each notebook can be executed directly.
 
@@ -45,11 +45,14 @@ It includes multiple CSV datasets (stored in `datasets/`) so each notebook can b
   Unsupervised learning workflow for clustering, including cluster quality analysis and interpretation.
 
 ### Datasets 🧪
+- `datasets/auto-mpg.csv`
 - `datasets/california-housing.csv`
 - `datasets/flights_seaborn.csv`
 - `datasets/healthcare-dataset-stroke-data.csv`
 - `datasets/iris_seaborn.csv`
+- `datasets/marketing-data.csv`
 - `datasets/outlier_detection_dataset.csv`
+- `datasets/students.csv`
 - `datasets/synthetic_stroke_data.csv`
 - `datasets/tips_seaborn.csv`
 - `datasets/titanic_seaborn.csv`
@@ -95,6 +98,7 @@ For a structured learning flow, run notebooks in this order:
 ## Notes 📝
 
 - Dataset files are stored in `datasets/`; if you move them again, update notebook file paths accordingly.
+- The `cache/` folder is required for slow computations (for example clustering metric sweeps) and stores precomputed arrays used by some notebooks.
 - If plots do not display, verify your Jupyter kernel and package installation.
 - Some notebooks may require rerunning cells from top to bottom after kernel restarts.
 
