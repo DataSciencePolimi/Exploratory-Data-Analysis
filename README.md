@@ -1,4 +1,4 @@
-# Notebook EDA 📊
+# Exploratory Data Analysis (EDA) Tutorial 📊
 
 A hands-on collection of Jupyter notebooks for learning and practicing **Exploratory Data Analysis (EDA)**.
 
