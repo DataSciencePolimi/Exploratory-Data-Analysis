@@ -86,4 +86,4 @@ Dr. [Riccardo Campi](https://scholar.google.com/citations?user=JWSoz7EAAAAJ&hl=i
 
 ## License ⚖️
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details. 
